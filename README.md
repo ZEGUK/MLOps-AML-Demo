@@ -2,7 +2,7 @@
 *************************************************************************************
 THIS DOCUMENT is written for making the folder organization easy to follow.
 *************************************************************************************
-Org:
+# Org:
 
 1. MLOps4poc_retraining.ipynb assisted by:
     (1) training.py
@@ -30,7 +30,7 @@ Org:
     (2) evaluating_dataset
     (3) output  
 *******************************************************************************************************************************
-NOTE:
+# NOTE:
 1. Please follow markdowns and guidance comments in both .ipynb and .py scripts.Run the ipynb file CELL BY CELL while take care the comments in it.
 2. Please note the source directory whether correct or not. It is recommended to use absolute path instead of relative path.
 3. You can use juypter via AML Compute/select compute/juypter or vs code as you preferred.
